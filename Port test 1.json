@@ -1,0 +1,44 @@
+{
+  "spec": 2,
+  "name": "ClearVision Winter ",
+  "description": "Inspired by ClearVision Winter v5",
+  "authors": [
+    {
+      "name": "Zerthox (Original)"
+    },
+    {
+      "name": "S I N"
+    }
+  ],
+  "background": {
+    "url": "https://zerthox.github.io/ClearVision/images/winter.jpg",
+    "blur": 0,
+    "alpha": 0.45
+  },
+  "colors": {
+    "PRIMARY": "#66AACC",
+    "BRAND": "#66AACC",
+    "BRAND_NEW": "#66AACC",
+    "LINK": "#66AACC",
+    "STATUSBAR": "#1E2328",
+    "BACKGROUND_PRIMARY": "#202225",
+    "BACKGROUND_SECONDARY": "#18191C",
+    "BACKGROUND_TERTIARY": "#141518",
+    "BACKGROUND_ACCENT": "#2B2F36",
+    "CHANNELTEXTAREA_BACKGROUND": "#2B2F36",
+    "CHAT_BACKGROUND": "#202225",
+    "HEADER_PRIMARY": "#FFFFFF",
+    "HEADER_SECONDARY": "#D6D8DB",
+    "TEXT_NORMAL": "#DCDDDE",
+    "TEXT_MUTED": "#A3A6AA",
+    "INTERACTIVE_NORMAL": "#B9BBBE",
+    "INTERACTIVE_HOVER": "#66AACC",
+    "INTERACTIVE_ACTIVE": "#FFFFFF",
+    "SCROLLBAR_THUMB": "#447799",
+    "SCROLLBAR_TRACK": "#202225",
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": "#66AACC",
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": "#447799",
+    "MENTION_BACKGROUND": "#66AACC33",
+    "MENTION_FOREGROUND": "#66AACC"
+  }
+}
